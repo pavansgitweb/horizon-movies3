@@ -22,7 +22,7 @@ def proxy(path):
         # Inject the <style> with `!important` to override the display setting
         style_override = """
         <style>
-            #__framer-badge-container {
+            #__framer-badge-container,#__framer-editorbar,.mode_normal, {
                 display: none !important;
             }
             .framer-bMdha .framer-1y8ghoz {
