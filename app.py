@@ -31,6 +31,11 @@ def proxy(path):
             .mode_normal {
                 display: none !important;
             }
+            #above are framer badges
+
+            .framer-KnduW .framer-1u4l3n0-container {
+               max-width: 99999;
+            }
             .framer-bMdha .framer-1y8ghoz {
             --framer-paragraph-spacing: 20px !important;
             }
